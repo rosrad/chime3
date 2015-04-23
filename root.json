@@ -1,0 +1,12 @@
+{"Root":"tmp","LM":"tgpr","ExcludeNode":[6,7,11],"DecodeSet":"","FmllrDecode":true,"Btrain":true,"Bgraph":true,"Bdecode":true,"Bscore":true}
+{"Root":"tmp","LM":"tgpr","ExcludeNode":[6,7,11],"DecodeSet":"dev","FmllrDecode":true,"Btrain":false,"Bgraph":false,"Bdecode":true,"Bscore":true}
+{"Root":"tmp","LM":"tgpr","ExcludeNode":[6,7,11],"DecodeSet":"train_mc","FmllrDecode":true,"Btrain":false,"Bgraph":false,"Bdecode":true,"Bscore":true}
+{"Root":"tmp","LM":"tgpr","ExcludeNode":[6,7,11],"DecodeSet":"","FmllrDecode":true,"Btrain":true,"Bgraph":true,"Bdecode":false,"Bscore":false}
+{"Root":"tmp","LM":"tgpr","ExcludeNode":[6,7,11],"DecodeSet":"dev","Btrain":false,"Bgraph":false,"Bdecode":false,"Bscore":true}
+{"Root":"tmp","LM":"bg","ExcludeNode":[6,7,11],"DecodeSet":"dev","Btrain":true,"Bgraph":true,"Bdecode":true,"Bscore":true}
+{"Root":"tmp","LM":"bg","DecodeSet":"eval","Btrain":false,"Bgraph":false,"Bdecode":true,"Bscore":true}
+{"Root":"tmp","LM":"bg","Btrain":true,"Bgraph":false,"Bdecode":false,"Bscore":false}
+{"Root":"tmp","LM":"bg","DecodeSet":"eval","Btrain":false,"Bgraph":false,"Bdecode":true,"Bscore":true}
+{"Root":"tmp","LM":"bg","DecodeSet":"dev","Btrain":false,"Bgraph":false,"Bdecode":true,"Bscore":true}
+{"Root":"tmp","LM":"bg","DecodeSet":"dev","Btrain":false,"Bgraph":false,"Bdecode":true,"Bscore":true}
+{"Root":"tmp","LM":"tg","Btrain":false,"Bgraph":true,"Bdecode":true,"Bscore":true}

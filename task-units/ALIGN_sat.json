@@ -1,0 +1,4 @@
+{"MC":false,"Fmllr":true,"Name":"tri1.cmn","Exp":"SAT","Feat":"mfcc","Label":"normal","Dynamic":"delta","Context":3,"Transform":["final.mat"],"Norm":{"Cmvn":{"Vars":false}}}
+{"MC":true,"Fmllr":true,"Name":"tri1.cmn","Exp":"SAT","Feat":"mfcc","Label":"normal","Dynamic":"delta","Context":3,"Transform":["final.mat"],"Norm":{"Cmvn":{"Vars":false}}}
+{"MC":false,"Fmllr":true,"Name":"tri1.cmvn","Exp":"SAT","Feat":"mfcc","Label":"normal","Dynamic":"delta","Context":3,"Transform":["final.mat"],"Norm":{"Cmvn":{"Vars":true}}}
+{"MC":true,"Fmllr":true,"Name":"tri1.cmvn","Exp":"SAT","Feat":"mfcc","Label":"normal","Dynamic":"delta","Context":3,"Transform":["final.mat"],"Norm":{"Cmvn":{"Vars":true}}}

@@ -1,0 +1,2 @@
+{"MC":false,"Dst":{"Name":"mono","Exp":"GMM","Feat":"mfcc","Label":"normal"},"Src":{"Feat":"mfcc","Label":"normal"},"Extra":{"Opts":"--boost-silence 1.25"},"Dynamic":"delta","Norm":{"Cmvn":{"Vars":false}},"Btrain":true,"Bgraph":true}
+{"MC":true,"Dst":{"Name":"mono","Exp":"GMM","Feat":"mfcc","Label":"normal"},"Src":{"Feat":"mfcc","Label":"normal"},"Extra":{"Opts":"--boost-silence 1.25"},"Dynamic":"delta","Norm":{"Cmvn":{"Vars":false}},"Btrain":true,"Bgraph":true}

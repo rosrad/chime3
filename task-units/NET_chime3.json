@@ -1,0 +1,2 @@
+{"Dst":{"Name":"net.tri1.cmn.2048.7.delta","Exp":"DNN","Feat":"fbank","Label":"normal"},"MC":true,"Dynamic":"raw","Extra":{"Opts":"--rbm-iter 3"},"Src":{"Feat":"fbank","Label":"normal"},"Ali":{"Name":"tri1.cmn","Exp":"SAT","Feat":"mfcc","Label":"normal"},"NetConf":{"Nodes":2048,"Layers":7,"Context":5},"TaskConf":{"Btrain":true,"Bgraph":true,"Bdecode":true,"Bscore":true}}
+
